@@ -63,9 +63,41 @@ chmod +x 42sh
 ./42sh
 ```
 
-### 👥 The Team
-* **[Wael Akhdar](https://github.com/Wael-Akhdar)**
-* **[Youcef Zahra](https://github.com/youcefzahra)**
-* **[Jessim Ziani](https://github.com/jessim-ziani)**
-* **[Louis-Maximilien Chappuit](https://github.com/louischap31)**
+## 👥 Contributors
+
+This project was developed by a team of 4 EPITA engineering students.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jessim-ziani">
+          <img src="https://github.com/jessim-ziani.png" width="60px" style="border-radius: 50%;" alt="Jessim Ziani"/><br />
+          <sub><b>Jessim Ziani</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Wael-Akhdar">
+          <img src="https://github.com/Wael-Akhdar.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/><br />
+          <sub><b>Wael Akhdar</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/youcefzahra">
+          <img src="https://github.com/youcefzahra.png" width="60px" style="border-radius: 50%;" alt="Youcef Zahra"/><br />
+          <sub><b>Youcef Zahra</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/louischap31">
+          <img src="https://github.com/louischap31.png" width="60px" style="border-radius: 50%;" alt="Louis-Maximilien Chappuit"/><br />
+          <sub><b>Louis-Maximilien Chappuit</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+**🛠️ Technologies:** C, Make, Autotools, Bash, Git.
 
