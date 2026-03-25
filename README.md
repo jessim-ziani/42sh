@@ -7,6 +7,7 @@
 The **42sh** project is a core EPITA curriculum requirement. The goal is to recreate a complete command interpreter (shell) from scratch, complying with the POSIX standard. This project requires a deep understanding of UNIX system programming, language theory (Lexer/Parser), and software architecture.
 
 **My Role:**
+- Contributed to the Lexer and Parser implementation
 - Implemented core execution features, including process creation
 - Developed several built-in commands
 - Implemented input/output redirections and file descriptor management
