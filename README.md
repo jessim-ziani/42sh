@@ -59,7 +59,7 @@ chmod +x 42sh
 ```
 
 ### 👥 The Team
-* **[Wael Akhdar](Ton_Lien_GitHub)**
+* **[Wael Akhdar](https://github.com/Wael-Akhdar)**
 * **[Youcef Zahra](https://github.com/youcefzahra)**
 * **[Jessim Ziani](https://github.com/jessim-ziani)**
 * **[Louis-Maximilien Chappuit](https://github.com/louischap31)**
